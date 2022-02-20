@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yororing
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Python, Vue.js
+- 🌱 I’m currently learning Python and Front screen
 
 
 <!---
