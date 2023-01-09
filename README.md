@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yororing
-- 🌱 I’m currently learning Python and Front screen
+- 🌱 It's my GitHub
 
 
 <!---
