@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yororing
-- 🌱 It's my GitHub
+- 🌱 Thank you
 
 
 <!---
